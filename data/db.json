@@ -1,0 +1,42 @@
+{
+  "members": [
+    {
+      "name": "Nyongo",
+      "first_name": "Gislain",
+      "tel": "675451213",
+      "email": "nyongo@gmail.com",
+      "address": "Yaounde",
+      "password": "Nyongo",
+      "id": 1
+    },
+    {
+      "name": "Geufa",
+      "first_name": "V",
+      "tel": "652431546",
+      "email": "valdes@gmail.com",
+      "address": "Bafout",
+      "password": "Heuf",
+      "id": 2
+    }
+  ],
+  "administrators": [
+    {
+      "id": 1,
+      "name": "Jimmy",
+      "first_name": "Tranny",
+      "sex": "male",
+      "email": "jimmy@gmail.com",
+      "tel": "654653424",
+      "address": "Bafoussam"
+    },
+    {
+      "id": 4,
+      "name": "Tonny",
+      "first_name": "Rimiric",
+      "sex": "male",
+      "email": "tonny@gmail.com",
+      "tel": "677773424",
+      "address": "Yaounde"
+    }
+  ]
+}
